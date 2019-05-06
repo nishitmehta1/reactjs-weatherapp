@@ -1,4 +1,5 @@
-import React, { Component } from 'react';
+import React from 'react';
+import './form.css';
 
 const Form = props => {
 	return (
