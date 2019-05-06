@@ -1,6 +1,9 @@
 ## Test
 https://nishitmehta1.github.io/reactjs-weatherapp/
 
+NOTE: Since an API is being called for retrieving weather data, you need to allow your browser to make 3rd party requests. 
+
+
 ## What I learnt from this project
 * Asynchronous API calling in React
 * Parsing data retrieved through API using JSON
